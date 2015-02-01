@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModernArtUI</string>
+    <string name="action_settings">More Information</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alert_dialog_title">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson</string>
+    <string name="alert_cancel">Not Now</string>
+    <string name="alert_visit_moma">Visit MOMA</string>
+    <string name="alert_message">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson\n\nClick below to learn more!</string>
+
+</resources>
